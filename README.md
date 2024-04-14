@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Commands**
 
 - 👨‍💻 All of my projects are available at [https://wa.me/+923176508812?text=_Hello_SohailXD_Bro](https://wa.me/+923176508812?text=_Hello_SohailXD_Bro)
-
+TERMUX HACKER SOHAIL XD
 - 📫 How to reach me **sohailup01@gmail.com**
 
 - 📄 Know about my experiences [My work on Hacking 🖤](My work on Hacking 🖤)
