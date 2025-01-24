@@ -1,12 +1,10 @@
-<h1 align="center">Hi 👋, I'm 🇸  🅾🅷🅰🅸🅻  🇽  🅳</h1>
-<h3 align="center">I am WhatsApp bot developer from Pakistan</h3>
-<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/uZHzwAWLG4cXmCVy9
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=B700FB&center=true&width=1000&height=200&lines=SOHAIL EDITZ 005" alt="Typing SVG" /></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohailmodsxd&label=Profile%20views&color=0e75b6&style=flat" alt="sohailmodsxd" /> </p>
 
 ---
 
-     TIKTOK
-SOHAIL EDITZ 005 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=00FF00&center=true&width=1000&height=200&lines= -BALOCH BOY INSIDEE" alt="Typing SVG" /></a>
 
 
 ---
