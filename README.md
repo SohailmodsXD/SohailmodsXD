@@ -4,7 +4,7 @@
 
 ---
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=00FF00&center=true&width=1000&height=200&lines= -BALOCH BOY INSIDEE" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=00FF00&center=true&width=1000&height=200&lines= - BALOCH BOY INSIDE " alt="Typing SVG" /></a>
 
 
 ---
@@ -20,6 +20,9 @@
 - 📄 Know about my experiences [My work on Hacking 🖤](My work on Hacking 🖤)
 
 - ⚡ Fun fact **I am hacker github hacking**
+
+- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=B700FB&center=true&width=1000&height=200&lines= SOHAIL" alt="Typing SVG" /></a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
