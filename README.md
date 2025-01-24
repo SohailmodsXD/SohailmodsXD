@@ -3,6 +3,14 @@
 <img align="right" alt="coding" width="400" src="https://images.app.goo.gl/uZHzwAWLG4cXmCVy9
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohailmodsxd&label=Profile%20views&color=0e75b6&style=flat" alt="sohailmodsxd" /> </p>
 
+---
+
+     TIKTOK
+SOHAIL EDITZ 005 
+
+
+---
+
 - 🔭 I’m currently working on **Termux Hacker**
 
 - 🌱 I’m currently learning **Commands**
